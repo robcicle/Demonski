@@ -1,7 +1,7 @@
 # Demonski
 
 ARCHIVED: 07/03/25
-Just to note, this archive date is close to five years after the actual abandonment. The IntroSequence is bugged with WebGL, I attempted to remedy it before finally archiving but seemed to be entirelly unsuccessful. Try the Windows build, it works there! The code in this project is horrendous but a great reminder of the start. :)
+This archive date is close to five years after the actual abandonment. All WebGL/UI issues have been resolved and the project will never see another commit. The code in this project is horrendous but a great reminder of the start. :)
 
 Demonski was my first 2D Unity Project, obviously the assets aren't my creations as they were typically taken from [the Unity Store](https://assetstore.unity.com/) or [Open Game Art](https://opengameart.org/) 
 
