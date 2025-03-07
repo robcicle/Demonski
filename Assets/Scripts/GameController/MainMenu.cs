@@ -18,8 +18,6 @@ public class MainMenu : MonoBehaviour
             m_Scene = SceneManager.GetActiveScene();
             sceneName = m_Scene.name;
         }
-
-        Cursor.lockState = CursorLockMode.Confined;   
     }
 
     // Start is called before the first frame update

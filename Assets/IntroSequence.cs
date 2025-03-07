@@ -80,6 +80,7 @@ public class IntroSequence : MonoBehaviour
     {
         if (collision.gameObject.name == "Character" && dialougeManager.dialougeEnded == false)
         {
+            GetComponent<BoxCollider2D>().enabled = false;
             StartCoroutine(IntroPlay());
         }
     }

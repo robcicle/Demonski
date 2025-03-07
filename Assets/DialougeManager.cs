@@ -74,8 +74,6 @@ public class DialougeManager : MonoBehaviour
     {
         if (nameInput.activeInHierarchy)
         {
-            Cursor.lockState = CursorLockMode.Confined;
-
             Time.timeScale = 0f;
             player.GetComponent<PlayerMovement>().enabled = false;
             if (Input.GetKeyDown("return"))
